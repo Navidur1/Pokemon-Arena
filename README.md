@@ -1,4 +1,3 @@
-#Pokemon-Arena
 A text based Pokemon battling game made for ICS4U project.
 Created using Java utilizing Object Oriented Programming
 Pokemon class creates Pokemon objects and deals with damage calculations.
